@@ -1,0 +1,58 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "Giuseppina",
+      "last_name": "Pullara",
+      "department": "IT"
+    },
+    {
+      "id": 2,
+      "first_name": "Goni",
+      "last_name": "unknown",
+      "department": "IT"
+    },
+    {
+      "id": 3,
+      "first_name": "Alex",
+      "last_name": "unknown",
+      "department": "IT"
+    },
+    {
+      "id": 4,
+      "first_name": "Jose",
+      "last_name": "unknown",
+      "department": "IT"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "employee_id": 1,
+      "description": "task 1",
+      "priority": 1,
+      "status": false
+    },
+    {
+      "id": 2,
+      "employee_id": 1,
+      "description": "task 2",
+      "priority": 1,
+      "status": false
+    },
+    {
+      "id": 3,
+      "employee_id": 2,
+      "description": "task 3",
+      "priority": 1,
+      "status": false
+    },
+    {
+      "id": 4,
+      "employee_id": 3,
+      "description": "task 4",
+      "priority": 1,
+      "status": false
+    }
+  ]
+}
